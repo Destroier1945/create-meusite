@@ -1,0 +1,16 @@
+{
+  "name": "create-meusite",
+  "description": "site pessoal ",
+  "version": "0.0.0",
+  "author": "julianokluge <kluge233@hotmail.com>",
+  "bin": "src/cli.js",
+  "files": [
+    "src",
+    "templates"
+  ],
+  "dependencies": {
+    "create-create-app": "^7.3.0",
+    "firebase": "^9.15.0"
+  },
+  "license": "MIT"
+}
